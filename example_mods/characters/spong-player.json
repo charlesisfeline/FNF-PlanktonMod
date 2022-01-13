@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SpongDle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SpongDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SpongRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SpongLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SpongUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spongyboy/Spong",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "spong",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		235,
+		85
+	],
+	"camera_position": [
+		-130,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

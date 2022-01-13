@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongebob-new.png"><SubTexture name="sp idle0000" x="0" y="0" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp idle0001" x="695" y="0" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp idle0002" x="1390" y="0" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp idle0003" x="0" y="616" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp right0000" x="695" y="616" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp right0001" x="1390" y="616" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp up0000" x="0" y="1232" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp up0001" x="695" y="1232" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp left0000" x="1390" y="1232" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp left0001" x="0" y="1848" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp down0000" x="695" y="1848" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp down0001" x="1390" y="1848" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp hey0000" x="0" y="2464" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+<SubTexture name="sp hey0001" x="695" y="2464" width="695" height="616" frameX="0" frameY="0" frameWidth="695" frameHeight="616" />
+</TextureAtlas>

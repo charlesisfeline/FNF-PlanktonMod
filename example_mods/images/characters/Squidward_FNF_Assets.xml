@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Squidward_FNF_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Squid Idle0000" x="0" y="0" width="394" height="574" frameX="0" frameY="-12" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0001" x="0" y="0" width="394" height="574" frameX="0" frameY="-12" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0002" x="394" y="0" width="387" height="580" frameX="-6" frameY="-6" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0003" x="394" y="0" width="387" height="580" frameX="-6" frameY="-6" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0004" x="781" y="0" width="390" height="585" frameX="-3" frameY="-1" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0005" x="781" y="0" width="390" height="585" frameX="-3" frameY="-1" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0006" x="1171" y="0" width="391" height="586" frameX="-2" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0007" x="1171" y="0" width="391" height="586" frameX="-2" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0008" x="1562" y="0" width="392" height="586" frameX="-1" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0009" x="1562" y="0" width="392" height="586" frameX="-1" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0010" x="1562" y="0" width="392" height="586" frameX="-1" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0011" x="1562" y="0" width="392" height="586" frameX="-1" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0012" x="1562" y="0" width="392" height="586" frameX="-1" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Idle0013" x="1562" y="0" width="392" height="586" frameX="-1" frameY="0" frameWidth="394" frameHeight="586"/>
+	<SubTexture name="Squid Sing down0000" x="0" y="586" width="284" height="538" frameX="0" frameY="-9" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0001" x="0" y="586" width="284" height="538" frameX="0" frameY="-9" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0002" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0003" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0004" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0005" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0006" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0007" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0008" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0009" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0010" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0011" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0012" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing down0013" x="284" y="586" width="292" height="547" frameX="-3" frameY="0" frameWidth="295" frameHeight="547"/>
+	<SubTexture name="Squid Sing left0000" x="576" y="586" width="441" height="585"/>
+	<SubTexture name="Squid Sing left0001" x="576" y="586" width="441" height="585"/>
+	<SubTexture name="Squid Sing left0002" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0003" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0004" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0005" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0006" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0007" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0008" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0009" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0010" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0011" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0012" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing left0013" x="1017" y="586" width="412" height="585" frameX="-10" frameY="0" frameWidth="441" frameHeight="585"/>
+	<SubTexture name="Squid Sing right0000" x="1429" y="586" width="533" height="534" frameX="-1" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0001" x="1429" y="586" width="533" height="534" frameX="-1" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0002" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0003" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0004" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0005" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0006" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0007" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0008" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0009" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0010" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0011" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0012" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing right0013" x="0" y="1171" width="490" height="534" frameX="0" frameY="0" frameWidth="534" frameHeight="534"/>
+	<SubTexture name="Squid Sing up0000" x="490" y="1171" width="434" height="583" frameX="-2" frameY="0" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0001" x="490" y="1171" width="434" height="583" frameX="-2" frameY="0" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0002" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0003" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0004" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0005" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0006" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0007" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0008" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0009" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0010" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0011" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0012" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+	<SubTexture name="Squid Sing up0013" x="924" y="1171" width="425" height="576" frameX="0" frameY="-7" frameWidth="436" frameHeight="583"/>
+</TextureAtlas>

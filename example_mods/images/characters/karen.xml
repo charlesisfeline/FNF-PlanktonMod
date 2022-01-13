@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="karen.png"><SubTexture name="karen idle0000" x="0" y="0" width="285" height="472" frameX="0" frameY="0" frameWidth="285" frameHeight="472" />
+<SubTexture name="karen up0000" x="285" y="0" width="285" height="472" frameX="0" frameY="0" frameWidth="285" frameHeight="472" />
+<SubTexture name="karen up0001" x="570" y="0" width="282" height="464" frameX="0" frameY="0" frameWidth="282" frameHeight="464" />
+<SubTexture name="karen up0002" x="852" y="0" width="281" height="463" frameX="0" frameY="0" frameWidth="281" frameHeight="463" />
+<SubTexture name="karen up0003" x="0" y="472" width="281" height="460" frameX="0" frameY="0" frameWidth="281" frameHeight="460" />
+<SubTexture name="karen down0000" x="281" y="472" width="285" height="472" frameX="0" frameY="0" frameWidth="285" frameHeight="472" />
+<SubTexture name="karen down0001" x="566" y="472" width="282" height="464" frameX="0" frameY="0" frameWidth="282" frameHeight="464" />
+<SubTexture name="karen down0002" x="848" y="472" width="281" height="463" frameX="0" frameY="0" frameWidth="281" frameHeight="463" />
+<SubTexture name="karen down0003" x="0" y="944" width="281" height="460" frameX="0" frameY="0" frameWidth="281" frameHeight="460" />
+<SubTexture name="karen left0000" x="281" y="944" width="285" height="472" frameX="0" frameY="0" frameWidth="285" frameHeight="472" />
+<SubTexture name="karen left0001" x="566" y="944" width="282" height="464" frameX="0" frameY="0" frameWidth="282" frameHeight="464" />
+<SubTexture name="karen left0002" x="848" y="944" width="281" height="463" frameX="0" frameY="0" frameWidth="281" frameHeight="463" />
+<SubTexture name="karen left0003" x="0" y="1416" width="281" height="460" frameX="0" frameY="0" frameWidth="281" frameHeight="460" />
+<SubTexture name="karen right0000" x="281" y="1416" width="285" height="472" frameX="0" frameY="0" frameWidth="285" frameHeight="472" />
+<SubTexture name="karen right0001" x="566" y="1416" width="282" height="464" frameX="0" frameY="0" frameWidth="282" frameHeight="464" />
+<SubTexture name="karen right0002" x="848" y="1416" width="281" height="463" frameX="0" frameY="0" frameWidth="281" frameHeight="463" />
+<SubTexture name="karen right0003" x="0" y="1888" width="281" height="460" frameX="0" frameY="0" frameWidth="281" frameHeight="460" />
+</TextureAtlas>

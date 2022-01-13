@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 51,
+			"anim": "idle",
+			"loop": false,
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				242,
+				-23
+			],
+			"indices": [],
+			"fps": 51,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mom Left Pose"
+		},
+		{
+			"offsets": [
+				90,
+				-60
+			],
+			"indices": [],
+			"fps": 51,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				1,
+				-150
+			],
+			"indices": [],
+			"fps": 51,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				34,
+				31
+			],
+			"indices": [],
+			"fps": 51,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mom Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mom_Assets_Sandy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sandy",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		140,
+		100
+	],
+	"camera_position": [
+		-30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

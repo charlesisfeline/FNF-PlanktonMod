@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spong.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpongDle0000" x="1165" y="764" width="348" height="319" frameX="0" frameY="-15" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0001" x="1165" y="764" width="348" height="319" frameX="0" frameY="-15" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0002" x="397" y="765" width="341" height="330" frameX="-7" frameY="-4" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0003" x="397" y="765" width="341" height="330" frameX="-7" frameY="-4" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0004" x="1245" y="36" width="337" height="333" frameX="-10" frameY="-1" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0005" x="1245" y="36" width="337" height="333" frameX="-10" frameY="-1" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0006" x="803" y="720" width="339" height="334" frameX="-11" frameY="0" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0007" x="803" y="720" width="339" height="334" frameX="-11" frameY="0" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0008" x="803" y="720" width="339" height="334" frameX="-11" frameY="0" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0009" x="803" y="720" width="339" height="334" frameX="-11" frameY="0" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDle0010" x="803" y="720" width="339" height="334" frameX="-11" frameY="0" frameWidth="350" frameHeight="334"/>
+	<SubTexture name="SpongDown0000" x="803" y="403" width="392" height="294" frameX="0" frameY="-6" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0001" x="803" y="403" width="392" height="294" frameX="0" frameY="-6" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0002" x="36" y="389" width="390" height="300" frameX="-1" frameY="0" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0003" x="36" y="389" width="390" height="300" frameX="-1" frameY="0" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0004" x="36" y="389" width="390" height="300" frameX="-1" frameY="0" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0005" x="36" y="389" width="390" height="300" frameX="-1" frameY="0" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0006" x="36" y="389" width="390" height="300" frameX="-1" frameY="0" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongDown0007" x="36" y="389" width="390" height="300" frameX="-1" frameY="0" frameWidth="392" frameHeight="300"/>
+	<SubTexture name="SpongLeft0000" x="1218" y="403" width="335" height="338" frameX="0" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongLeft0001" x="1218" y="403" width="335" height="338" frameX="0" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongLeft0002" x="36" y="712" width="338" height="338" frameX="-6" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongLeft0003" x="36" y="712" width="338" height="338" frameX="-6" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongLeft0004" x="36" y="712" width="338" height="338" frameX="-6" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongLeft0005" x="36" y="712" width="338" height="338" frameX="-6" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongLeft0006" x="36" y="712" width="338" height="338" frameX="-6" frameY="0" frameWidth="344" frameHeight="338"/>
+	<SubTexture name="SpongRight0000" x="461" y="36" width="395" height="329" frameX="-12" frameY="-1" frameWidth="407" frameHeight="330"/>
+	<SubTexture name="SpongRight0001" x="461" y="36" width="395" height="329" frameX="-12" frameY="-1" frameWidth="407" frameHeight="330"/>
+	<SubTexture name="SpongRight0002" x="36" y="36" width="402" height="330" frameX="0" frameY="0" frameWidth="407" frameHeight="330"/>
+	<SubTexture name="SpongRight0003" x="36" y="36" width="402" height="330" frameX="0" frameY="0" frameWidth="407" frameHeight="330"/>
+	<SubTexture name="SpongRight0004" x="36" y="36" width="402" height="330" frameX="0" frameY="0" frameWidth="407" frameHeight="330"/>
+	<SubTexture name="SpongRight0005" x="36" y="36" width="402" height="330" frameX="0" frameY="0" frameWidth="407" frameHeight="330"/>
+	<SubTexture name="SpongUp0000" x="449" y="389" width="331" height="353" frameX="-4" frameY="0" frameWidth="343" frameHeight="353"/>
+	<SubTexture name="SpongUp0001" x="449" y="389" width="331" height="353" frameX="-4" frameY="0" frameWidth="343" frameHeight="353"/>
+	<SubTexture name="SpongUp0002" x="879" y="36" width="343" height="344" frameX="0" frameY="-9" frameWidth="343" frameHeight="353"/>
+	<SubTexture name="SpongUp0003" x="879" y="36" width="343" height="344" frameX="0" frameY="-9" frameWidth="343" frameHeight="353"/>
+	<SubTexture name="SpongUp0004" x="879" y="36" width="343" height="344" frameX="0" frameY="-9" frameWidth="343" frameHeight="353"/>
+</TextureAtlas>

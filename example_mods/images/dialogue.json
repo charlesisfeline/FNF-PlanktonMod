@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "well, well, well, we got a customer!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep (im boyfriend)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im girlfriend lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beeeeep!!!! (lets rap battle!)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whats a rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "battle rap is a-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welp, i guess its time to do it-"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"im-ready",
+			"spongy",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Plankton",
+	"difficulties": "",
+	"weekCharacters": [
+		"spongebob",
+		"bf",
+		"gf"
+	],
+	"storyName": "im ready to rap",
+	"weekName": "Spongebob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

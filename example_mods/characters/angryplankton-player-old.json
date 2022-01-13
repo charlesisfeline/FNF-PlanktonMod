@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				159,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "plank idle"
+		},
+		{
+			"offsets": [
+				181,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "plank up"
+		},
+		{
+			"offsets": [
+				135,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "plank left"
+		},
+		{
+			"offsets": [
+				202,
+				23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "plank right"
+		},
+		{
+			"offsets": [
+				170,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "plank down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plankton-angry-new",
+	"position": [
+		200,
+		330
+	],
+	"healthicon": "angryplankton",
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		75,
+		26
+	],
+	"camera_position": [
+		-80,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.25
+}

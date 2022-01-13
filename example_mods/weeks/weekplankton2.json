@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"defeated",
+			"plankton2",
+			[
+				0,
+				173,
+				0
+			]
+		],
+		[
+			"finale-battle",
+			"plankton2",
+			[
+				0,
+				173,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "plankton",
+	"difficulties": "",
+	"weekCharacters": [
+		"plankton2",
+		"bf",
+		"gf"
+	],
+	"storyName": "aftermath of week 1",
+	"weekName": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

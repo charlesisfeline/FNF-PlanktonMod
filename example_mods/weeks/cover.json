@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"rivals",
+			"foxa",
+			[
+				14,
+				113,
+				253
+			]
+		],
+		[
+			"f-is-for-friends",
+			"spongy",
+			[
+				14,
+				113,
+				253
+			]
+		],
+		[
+			"planktons-luck",
+			"oswald",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "plankton",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "song covers @spongeward.hx did",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

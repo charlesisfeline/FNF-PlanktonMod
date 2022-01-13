@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-193
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Squid Sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Squid Sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Squid Sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Squid Sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-140
+			],
+			"anim": "idle",
+			"fps": 40,
+			"name": "Squid Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Squidward_FNF_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "squid",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		182,
+		235
+	],
+	"camera_position": [
+		-150,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

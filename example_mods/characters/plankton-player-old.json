@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "plankton idle"
+		},
+		{
+			"offsets": [
+				179,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "plankton up"
+		},
+		{
+			"offsets": [
+				190,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "plankton down"
+		},
+		{
+			"offsets": [
+				165,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "plankton right"
+		},
+		{
+			"offsets": [
+				140,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "plankton left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plankton",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "plankton",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-40,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 0.25
+}

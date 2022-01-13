@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "HOW THE-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hgbvdbnfjkgiijhdjfkgsd is that it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont steal mr krabs secret formula or else-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "WHAAAAAAAAAAAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "GRRRRR NEXT TIME I WILL!!!!!!!!"
+		}
+	]
+}

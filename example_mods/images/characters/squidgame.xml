@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="squidgame.png"><SubTexture name="squid idle0000" x="0" y="0" width="232" height="410" frameX="0" frameY="0" frameWidth="232" frameHeight="410" />
+<SubTexture name="squid idle0001" x="232" y="0" width="205" height="437" frameX="0" frameY="0" frameWidth="205" frameHeight="437" />
+<SubTexture name="squid idle0002" x="437" y="0" width="202" height="476" frameX="0" frameY="0" frameWidth="202" frameHeight="476" />
+<SubTexture name="squid idle0003" x="0" y="476" width="186" height="494" frameX="0" frameY="0" frameWidth="186" frameHeight="494" />
+<SubTexture name="squid idle0004" x="186" y="476" width="179" height="506" frameX="0" frameY="0" frameWidth="179" frameHeight="506" />
+<SubTexture name="squid down0000" x="365" y="476" width="681" height="124" frameX="0" frameY="0" frameWidth="681" frameHeight="124" />
+<SubTexture name="squid down0001" x="0" y="982" width="627" height="160" frameX="0" frameY="0" frameWidth="627" frameHeight="160" />
+<SubTexture name="squid left0000" x="627" y="982" width="693" height="476" frameX="0" frameY="0" frameWidth="693" frameHeight="476" />
+<SubTexture name="squid left0001" x="1320" y="982" width="629" height="481" frameX="0" frameY="0" frameWidth="629" frameHeight="481" />
+<SubTexture name="squid right0000" x="0" y="1463" width="712" height="467" frameX="0" frameY="0" frameWidth="712" frameHeight="467" />
+<SubTexture name="squid right0001" x="712" y="1463" width="632" height="470" frameX="0" frameY="0" frameWidth="632" frameHeight="470" />
+<SubTexture name="squid up0000" x="1344" y="1463" width="317" height="606" frameX="0" frameY="0" frameWidth="317" frameHeight="606" />
+<SubTexture name="squid up0001" x="0" y="2069" width="557" height="551" frameX="0" frameY="0" frameWidth="557" frameHeight="551" />
+</TextureAtlas>

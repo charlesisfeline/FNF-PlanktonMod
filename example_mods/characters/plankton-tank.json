@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "plank right"
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "plank idle"
+		},
+		{
+			"offsets": [
+				-90,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "plank up"
+		},
+		{
+			"offsets": [
+				0,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "plank left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "plank down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plankbot-new",
+	"position": [
+		0,
+		-230
+	],
+	"healthicon": "plankbot",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		42,
+		15
+	],
+	"camera_position": [
+		-350,
+		-460
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

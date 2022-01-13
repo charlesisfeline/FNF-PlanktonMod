@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				142
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "Pat Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				139
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pat Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				143
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pat Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pat Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				132
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pat Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/patrick",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "patrick",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		151,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

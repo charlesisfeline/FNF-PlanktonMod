@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wizard_new.png"><SubTexture name="wizard down0000" x="0" y="0" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard down0001" x="243" y="0" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard idle0000" x="486" y="0" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard idle0001" x="0" y="299" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard idle0002" x="243" y="299" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard idle0003" x="486" y="299" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard right0000" x="0" y="598" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard right0001" x="243" y="598" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard left0000" x="486" y="598" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard left0001" x="0" y="897" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard up0000" x="243" y="897" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+<SubTexture name="wizard up0001" x="486" y="897" width="243" height="299" frameX="0" frameY="0" frameWidth="243" frameHeight="299" />
+</TextureAtlas>

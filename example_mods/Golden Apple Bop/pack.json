@@ -1,0 +1,6 @@
+{
+	"name": "Golden Apple Icon Bop",
+	"description": "Enables the Golden Apple Icon Bop Tween LUA script.",
+	"restart":false,
+	"color": [170, 0, 255]
+}

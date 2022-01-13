@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": false,
+			"name": "stan idle"
+		},
+		{
+			"offsets": [
+				-109,
+				-20
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "stan right"
+		},
+		{
+			"offsets": [
+				20,
+				-50
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "stan down"
+		},
+		{
+			"offsets": [
+				-52,
+				-13
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "stan left"
+		},
+		{
+			"offsets": [
+				-96,
+				1
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "stan up"
+		},
+		{
+			"offsets": [
+				-58,
+				-10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "hey",
+			"loop": false,
+			"name": "sp hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stan",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "spongy",
+	"flip_x": true,
+	"healthbar_colors": [
+		240,
+		200,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

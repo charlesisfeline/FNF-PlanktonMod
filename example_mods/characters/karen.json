@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-234
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "karen idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-234
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "karen right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-234
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "karen down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-234
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "karen left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-234
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "karen up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/karen",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "karen",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		125,
+		255
+	],
+	"camera_position": [
+		-50,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plankton_exe.png"><SubTexture name="angryplank idle0000" x="0" y="0" width="405" height="653" frameX="0" frameY="0" frameWidth="405" frameHeight="653" />
+<SubTexture name="angryplank idle0001" x="405" y="0" width="426" height="617" frameX="0" frameY="0" frameWidth="426" frameHeight="617" />
+<SubTexture name="angryplank idle0002" x="831" y="0" width="468" height="610" frameX="0" frameY="0" frameWidth="468" frameHeight="610" />
+<SubTexture name="angryplank idle0003" x="1299" y="0" width="410" height="621" frameX="0" frameY="0" frameWidth="410" frameHeight="621" />
+<SubTexture name="angryplank up0000" x="0" y="653" width="432" height="660" frameX="0" frameY="0" frameWidth="432" frameHeight="660" />
+<SubTexture name="angryplank up0001" x="432" y="653" width="389" height="669" frameX="0" frameY="0" frameWidth="389" frameHeight="669" />
+<SubTexture name="angryplank up0002" x="821" y="653" width="419" height="645" frameX="0" frameY="0" frameWidth="419" frameHeight="645" />
+<SubTexture name="angryplank left0000" x="1240" y="653" width="531" height="641" frameX="0" frameY="0" frameWidth="531" frameHeight="641" />
+<SubTexture name="angryplank left0001" x="0" y="1322" width="549" height="656" frameX="0" frameY="0" frameWidth="549" frameHeight="656" />
+<SubTexture name="angryplank left0002" x="549" y="1322" width="556" height="662" frameX="0" frameY="0" frameWidth="556" frameHeight="662" />
+<SubTexture name="angryplank right0000" x="1105" y="1322" width="646" height="566" frameX="0" frameY="0" frameWidth="646" frameHeight="566" />
+<SubTexture name="angryplank right0001" x="1751" y="1322" width="629" height="569" frameX="0" frameY="0" frameWidth="629" frameHeight="569" />
+<SubTexture name="angryplank right0002" x="0" y="1984" width="610" height="582" frameX="0" frameY="0" frameWidth="610" frameHeight="582" />
+<SubTexture name="angryplank down0000" x="610" y="1984" width="594" height="596" frameX="0" frameY="0" frameWidth="594" frameHeight="596" />
+<SubTexture name="angryplank down0001" x="1204" y="1984" width="572" height="641" frameX="0" frameY="0" frameWidth="572" frameHeight="641" />
+<SubTexture name="angryplank down0002" x="1776" y="1984" width="642" height="630" frameX="0" frameY="0" frameWidth="642" frameHeight="630" />
+</TextureAtlas>

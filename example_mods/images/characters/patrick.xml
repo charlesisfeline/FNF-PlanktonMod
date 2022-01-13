@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="patrick.png"><SubTexture name="Pat Idle0000" x="0" y="0" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Idle0001" x="551" y="0" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Idle0002" x="1102" y="0" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Idle0003" x="0" y="684" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Up0000" x="551" y="684" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Up0001" x="1102" y="684" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Down0000" x="0" y="1368" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Down0001" x="551" y="1368" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Left0000" x="1102" y="1368" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Left0001" x="0" y="2052" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Right0000" x="551" y="2052" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+<SubTexture name="Pat Right0001" x="1102" y="2052" width="551" height="684" frameX="0" frameY="0" frameWidth="551" frameHeight="684" />
+</TextureAtlas>

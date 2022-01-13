@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plankton.png"><SubTexture name="plankton idle0000" x="0" y="0" width="729" height="653" frameX="0" frameY="0" frameWidth="729" frameHeight="653" />
+<SubTexture name="plankton idle0001" x="729" y="0" width="578" height="669" frameX="0" frameY="0" frameWidth="578" frameHeight="669" />
+<SubTexture name="plankton idle0002" x="1307" y="0" width="676" height="624" frameX="0" frameY="0" frameWidth="676" frameHeight="624" />
+<SubTexture name="plankton idle0003" x="1983" y="0" width="671" height="645" frameX="0" frameY="0" frameWidth="671" frameHeight="645" />
+<SubTexture name="plankton up0000" x="0" y="669" width="671" height="645" frameX="0" frameY="0" frameWidth="671" frameHeight="645" />
+<SubTexture name="plankton up0001" x="671" y="669" width="673" height="645" frameX="0" frameY="0" frameWidth="673" frameHeight="645" />
+<SubTexture name="plankton up0002" x="1344" y="669" width="677" height="656" frameX="0" frameY="0" frameWidth="677" frameHeight="656" />
+<SubTexture name="plankton left0000" x="2021" y="669" width="799" height="641" frameX="0" frameY="0" frameWidth="799" frameHeight="641" />
+<SubTexture name="plankton left0001" x="0" y="1325" width="497" height="635" frameX="0" frameY="0" frameWidth="497" frameHeight="635" />
+<SubTexture name="plankton left0002" x="497" y="1325" width="636" height="652" frameX="0" frameY="0" frameWidth="636" frameHeight="652" />
+<SubTexture name="plankton right0000" x="1133" y="1325" width="545" height="673" frameX="0" frameY="0" frameWidth="545" frameHeight="673" />
+<SubTexture name="plankton right0001" x="1678" y="1325" width="565" height="653" frameX="0" frameY="0" frameWidth="565" frameHeight="653" />
+<SubTexture name="plankton right0002" x="0" y="1998" width="586" height="649" frameX="0" frameY="0" frameWidth="586" frameHeight="649" />
+<SubTexture name="plankton down0000" x="586" y="1998" width="644" height="619" frameX="0" frameY="0" frameWidth="644" frameHeight="619" />
+<SubTexture name="plankton down0001" x="1230" y="1998" width="682" height="641" frameX="0" frameY="0" frameWidth="682" frameHeight="641" />
+<SubTexture name="plankton down0002" x="1912" y="1998" width="673" height="635" frameX="0" frameY="0" frameWidth="673" frameHeight="635" />
+</TextureAtlas>

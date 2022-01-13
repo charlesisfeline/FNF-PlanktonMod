@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "AH-HA!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "GRRRRRRRRRRRRRRRRRRRRRRRRRR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "*builds plankbot*"
+		},
+		{
+			"speed": 0.5,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uhhhhh"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "plankton",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "BRO THAT DOES NOT ANSWER MY QUESTI-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "wow you nervous"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "GRRRRRRRRRRRRRRRRRR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "*jumps to plankbot's head*"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ehjgfjgiioreilhgdrfjkglfiodukjhjfgbhlnoikjfnredmjnsmkdfmdkdsmjfngmfdkmnfbg hnmhjkjnhbnjkjnbnmnjm,hsdjkfgjfdkfgjhfjdkrfgjhgfkdfijghjfkdlsoidjhfngjkfiidsujhertfnngjykihufjhdrfjhbnmjhnbkjhbgnkijhgvhbghjhgjhbnm,kjh i broke my meme part of my brain"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OH MY GOD A GIANT FUCKING ROBOT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "welp, too bad, rap battle time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "plankton",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "WHAT THE BARNACLES?!?!?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		}
+	]
+}

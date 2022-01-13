@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Patrick",
+	"position": [
+		0,
+		0
+	],
+	"scale": 2,
+	"idle_anim": "M Dad Idle",
+	"confirm_anim": "M Dad Idle"
+}

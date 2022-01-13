@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plankton-angry-new.png"><SubTexture name="plank down0000" x="0" y="0" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank down0001" x="678" y="0" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank idle0000" x="1356" y="0" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank idle0001" x="0" y="675" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank idle0002" x="678" y="675" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank idle0003" x="1356" y="675" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank left0000" x="0" y="1350" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank left0001" x="678" y="1350" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank right0000" x="1356" y="1350" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank right0001" x="0" y="2025" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank up0000" x="678" y="2025" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+<SubTexture name="plank up0001" x="1356" y="2025" width="678" height="675" frameX="0" frameY="0" frameWidth="678" frameHeight="675" />
+</TextureAtlas>

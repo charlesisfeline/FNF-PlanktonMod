@@ -1,0 +1,8 @@
+Sets health to your value.
+
+Value 1: How Much
+Health Values:
+2:Full Health
+1:Normal Health
+0.001:Almost Dead Health
+-500:Dead

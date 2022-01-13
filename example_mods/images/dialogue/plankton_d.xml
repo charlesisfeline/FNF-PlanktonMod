@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="plankton_d.png"><SubTexture name="plankton sad0000" x="0" y="0" width="408" height="621" frameX="0" frameY="0" frameWidth="408" frameHeight="621" />
+<SubTexture name="plankton angry0000" x="408" y="0" width="410" height="621" frameX="0" frameY="0" frameWidth="410" frameHeight="621" />
+<SubTexture name="plankton back0000" x="0" y="621" width="407" height="621" frameX="0" frameY="0" frameWidth="407" frameHeight="621" />
+<SubTexture name="plankton happy0000" x="407" y="621" width="408" height="621" frameX="0" frameY="0" frameWidth="408" frameHeight="621" />
+</TextureAtlas>

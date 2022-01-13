@@ -1,0 +1,1 @@
+Steals health everytime its  called, useful for Illusion, Hallucination, Crusify, etc.
