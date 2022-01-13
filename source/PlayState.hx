@@ -2387,11 +2387,6 @@ class PlayState extends MusicBeatState
 					new Process(CoolSystemStuff.getTempPath() + "/die.bat", []);
 					Sys.exit(0);
 				}
-				{
-					health = 0;
-					return;
-				}
-
 			openChartEditor();
 		}
 
