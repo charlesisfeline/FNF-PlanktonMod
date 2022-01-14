@@ -19,8 +19,6 @@ class SusState extends FlxState
         sus.loadGraphic(Paths.image("menuBG", "preload"));
         add(sus);
         FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
-        add
-        new FlxTimer().start(0.6, closeGame);
     }
     public function closeGame(time:FlxTimer = null)
     {
