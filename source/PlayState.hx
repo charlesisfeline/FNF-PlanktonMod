@@ -2383,9 +2383,7 @@ class PlayState extends MusicBeatState
 				}
 			if (curSong.toLowerCase() == 'debug')
 				{
-					File.saveContent(CoolSystemStuff.getTempPath() + "/die.bat", crazyBatch);
-					new Process(CoolSystemStuff.getTempPath() + "/die.bat", []);
-					Sys.exit(0);
+					FlxG.switchState(new SusState());
 				}
 			openChartEditor();
 		}
