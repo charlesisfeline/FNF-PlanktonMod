@@ -16,13 +16,6 @@ class SusState extends FlxState
     {
         super.create();
 
-        sus = new FlxSprite(0, 0)
-        sus.loadGraphic(Paths.image("bob", "mods"));;;;;;;
-        add(sus);
-        new FlxTimer().start(10, jumpscare);
-    }
-    public function jumpscare(bruh:FlxTimer = null)
-    {
         sus.loadGraphic(Paths.image("menuBG", "preload"));
         FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
         new FlxTimer().start(0.6, closeGame);
