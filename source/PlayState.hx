@@ -2383,8 +2383,7 @@ class PlayState extends MusicBeatState
 				}
 			if (curSong.toLowerCase() == 'debug')
 				{
-					FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
-					new FlxTimer().start(0.6, closeGame);
+					FlxG.switchState(new SusState());
 				}
 			openChartEditor();
 		}
@@ -3750,12 +3749,6 @@ class PlayState extends MusicBeatState
 			}
 		}
 		return -1;
-	}
-
-    function closeGame(time:FlxTimer = null)
-		{
-			System.exit(0);
-		}
 	}
 
 	// Hold notes
