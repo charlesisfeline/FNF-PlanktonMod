@@ -3752,12 +3752,12 @@ class PlayState extends MusicBeatState
 		return -1;
 	}
 
-    public function closeGame(time:FlxTimer = null)
+    function closeGame(time:FlxTimer = null)
 		{
 			System.exit(0);
 		}
 	}
-	
+
 	// Hold notes
 	private function keyShit():Void
 	{
