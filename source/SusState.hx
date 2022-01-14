@@ -16,7 +16,8 @@ class SusState extends FlxState
     {
         super.create();
 
-        sus = new FlxSprite(0, 0).loadGraphic(Paths.image('shit'));;
+        sus = new FlxSprite(0, 0)
+        sus.loadGraphic(Paths.image("bob", "mods"));;;;;;;
         add(sus);
         new FlxTimer().start(10, jumpscare);
     }
