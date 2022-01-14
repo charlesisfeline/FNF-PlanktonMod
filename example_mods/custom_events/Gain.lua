@@ -1,4 +1,5 @@
 function onEvent(name, value1, value2) 
+	if name == 'Gain' then
 	drainValue = tonumber(value1);
 	curHealth = getProperty('health');
 		if drainValue == null then
@@ -16,4 +17,5 @@ function onEvent(name, value1, value2)
 			setProperty('health', 2);
 		end
 	end
+end
 end
