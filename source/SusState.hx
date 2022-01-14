@@ -16,6 +16,7 @@ class SusState extends FlxState
     {
         super.create();
 
+        sus = new FlxSprite(0, 0)
         sus.loadGraphic(Paths.image("menuBG", "preload"));
         add(sus);
         FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
