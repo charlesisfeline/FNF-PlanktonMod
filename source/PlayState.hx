@@ -2385,8 +2385,7 @@ class PlayState extends MusicBeatState
 				{
 					FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
 					Sys.exit(0);
-				}
-			#end		
+				}		
 			openChartEditor();
 		}
 
