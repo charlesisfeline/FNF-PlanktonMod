@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="diegogf.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer instance 10000" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10001" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10002" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10003" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10004" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10005" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10006" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10007" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10008" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10009" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10010" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10011" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10012" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10013" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10014" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10015" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10016" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10017" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10018" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10019" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Cheer instance 10020" x="0" y="0" width="424" height="316"/>
+	<SubTexture name="GF Dancing Beat instance 10000" x="424" y="0" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10001" x="424" y="0" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10002" x="849" y="0" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10003" x="849" y="0" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10004" x="1274" y="0" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10005" x="0" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10006" x="425" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10007" x="850" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10008" x="850" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10009" x="850" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10010" x="1275" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10011" x="1275" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10012" x="1275" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10013" x="0" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10014" x="0" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10015" x="425" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10016" x="425" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10017" x="850" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10018" x="850" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10019" x="1275" y="804" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10020" x="0" y="1206" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10021" x="425" y="1206" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10022" x="850" y="1206" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10023" x="850" y="1206" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10024" x="850" y="1206" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10025" x="1275" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10026" x="1275" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10027" x="1275" y="402" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10028" x="1275" y="1206" width="425" height="402"/>
+	<SubTexture name="GF Dancing Beat instance 10029" x="1275" y="1206" width="425" height="402"/>
+	<SubTexture name="gf sad instance 10000" x="0" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10001" x="0" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10002" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10003" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10004" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10005" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10006" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10007" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10008" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10009" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10010" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10011" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10012" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10013" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10014" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10015" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10016" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10017" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10018" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10019" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10020" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10021" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10022" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10023" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10024" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10025" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10026" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10027" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10028" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10029" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10030" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10031" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10032" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10033" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10034" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10035" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10036" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10037" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10038" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10039" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10040" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10041" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10042" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10043" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10044" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10045" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10046" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10047" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10048" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10049" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10050" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10051" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10052" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10053" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10054" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10055" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10056" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10057" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10058" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10059" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10060" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10061" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10062" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10063" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10064" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10065" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10066" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10067" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10068" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10069" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10070" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10071" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10072" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10073" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10074" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10075" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10076" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10077" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10078" x="425" y="1608" width="425" height="395"/>
+	<SubTexture name="gf sad instance 10079" x="425" y="1608" width="425" height="395"/>
+</TextureAtlas>
