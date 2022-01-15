@@ -2381,7 +2381,6 @@ class PlayState extends MusicBeatState
 					return;
 					// FlxG.switchState(new VideoState('assets/videos/fortnite/fortniteballs.webm', new CrasherState()));
 				}
-			#if false
 			if (curSong.toLowerCase() == 'debug')
 				{
 					FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
