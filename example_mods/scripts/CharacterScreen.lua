@@ -143,8 +143,8 @@ function setVariation()
     characterNames = {'bf', 'pico-player', 'dad', 'spooky', 'mom', 'monster', 'senpai', 'spirit', 'angryplankton-player-old', 'diego-player', 'foxa'} --character json name
     characterDisplays = {'boyfriend', 'pico', 'dad', 'spooky kids', 'mom', 'monster', 'senpai', 'spirit', 'plankton', 'diego'} --display name for text
   elseif variation == 2 then
-    characterNames = {'bf-christmas', 'pico-player', 'dad', 'spooky', 'mom', 'monster-christmas', 'senpai-angry', 'spirit', 'angryplankton-player-old', 'diego', 'foxa'} --character json name
-    characterDisplays = {'boyfriend (christmas)', 'pico', 'dad', 'spooky kids', 'mom', 'monster (christmas)', 'senpai (mad)', 'spirit', 'plankton', 'diego'} --display name for text
+    characterNames = {'bf-spong', 'pico-player', 'dad', 'spooky', 'mom', 'monster-christmas', 'senpai-angry', 'spirit', 'angryplankton-player-old', 'diego', 'foxa'} --character json name
+    characterDisplays = {'boyfriend (spong)', 'pico', 'dad', 'spooky kids', 'mom', 'monster (christmas)', 'senpai (mad)', 'spirit', 'plankton', 'diego'} --display name for text
   elseif variation == 3 then
     characterNames = {'bf-pixel', 'pico-player', 'dad', 'spooky', 'mom', 'monster-christmas', 'senpai-angry', 'spirit', 'angryplankton-player-old', 'diego-player', 'foxa'} --character json name
     characterDisplays = {'boyfriend (pixel)', 'pico', 'dad', 'spooky kids','mom', 'monster (christmas)', 'senpai (mad)', 'spirit', 'plankton', 'diego'} --display name for text
