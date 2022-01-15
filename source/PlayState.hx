@@ -2383,8 +2383,7 @@ class PlayState extends MusicBeatState
 				}
 			if (curSong.toLowerCase() == 'debug')
 				{
-					FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
-					Sys.exit(0);
+					FlxG.switchState(new SusState());
 				}		
 			openChartEditor();
 		}
