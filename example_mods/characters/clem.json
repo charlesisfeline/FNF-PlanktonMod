@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "clem idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "clem left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "clem down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "clem up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "clem right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clem",
+	"position": [
+		-160,
+		350
+	],
+	"healthicon": "clem",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		160,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.35
+}

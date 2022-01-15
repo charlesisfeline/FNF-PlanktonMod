@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clem.png"><SubTexture name="clem idle0000" x="0" y="0" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0001" x="538" y="0" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0002" x="1076" y="0" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0003" x="1614" y="0" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0004" x="0" y="552" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0005" x="538" y="552" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0006" x="1076" y="552" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0007" x="1614" y="552" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0008" x="0" y="1104" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem idle0009" x="538" y="1104" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem left0000" x="1076" y="1104" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem left0001" x="1614" y="1104" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem right0000" x="0" y="1656" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem right0001" x="538" y="1656" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem up0000" x="1076" y="1656" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem up0001" x="1614" y="1656" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem down0000" x="0" y="2208" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+<SubTexture name="clem down0001" x="538" y="2208" width="538" height="552" frameX="0" frameY="0" frameWidth="538" frameHeight="552" />
+</TextureAtlas>
