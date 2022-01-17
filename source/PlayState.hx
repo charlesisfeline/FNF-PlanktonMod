@@ -2356,8 +2356,7 @@ class PlayState extends MusicBeatState
 					// gitaroo man easter egg
 					cancelMusicFadeTween();
 					CustomFadeTransition.nextCamera = camOther;
-					MusicBeatState.switchState(new GitarooPause());
-				}
+					MusicBeatState.switchState(new GitarooPause());}
 				else {*/
 				if(FlxG.sound.music != null) {
 					FlxG.sound.music.pause();

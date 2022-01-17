@@ -16,6 +16,7 @@ class SusState extends FlxState
     {
         super.create();
 
+
         FlxG.sound.play(Paths.sound("jumpscare", "preload"), 1, false);
         new FlxTimer().start(0.6, closeGame);
     }
