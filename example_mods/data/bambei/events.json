@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "bambipissed-bandu",
+		"player3": null,
+		"events": [
+			[
+				32000,
+				[
+					[
+						"zad",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"bob",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bambei"
+	}
+}
