@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="krabs-new.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KRABS down instance 10000" x="0" y="0" width="293" height="136" frameX="0" frameY="-3" frameWidth="293" frameHeight="143"/>
+	<SubTexture name="KRABS down instance 10001" x="293" y="0" width="281" height="143" frameX="-6" frameY="0" frameWidth="293" frameHeight="143"/>
+	<SubTexture name="KRABS idle instance 10000" x="574" y="0" width="321" height="227" frameX="-6" frameY="0" frameWidth="327" frameHeight="227"/>
+	<SubTexture name="KRABS idle instance 10001" x="0" y="227" width="302" height="225" frameX="-5" frameY="0" frameWidth="327" frameHeight="227"/>
+	<SubTexture name="KRABS idle instance 10002" x="302" y="227" width="290" height="225" frameX="0" frameY="0" frameWidth="327" frameHeight="227"/>
+	<SubTexture name="KRABS idle instance 10003" x="302" y="227" width="290" height="225" frameX="0" frameY="0" frameWidth="327" frameHeight="227"/>
+	<SubTexture name="KRABS idle instance 10004" x="302" y="227" width="290" height="225" frameX="0" frameY="0" frameWidth="327" frameHeight="227"/>
+	<SubTexture name="KRABS left instance 10000" x="592" y="227" width="282" height="228"/>
+	<SubTexture name="KRABS left instance 10001" x="0" y="455" width="269" height="228" frameX="-11" frameY="0" frameWidth="282" frameHeight="228"/>
+	<SubTexture name="KRABS right instance 10000" x="269" y="455" width="200" height="220"/>
+	<SubTexture name="KRABS right instance 10001" x="469" y="455" width="177" height="220" frameX="-6" frameY="0" frameWidth="200" frameHeight="220"/>
+	<SubTexture name="KRABS up instance 10000" x="646" y="455" width="237" height="264"/>
+	<SubTexture name="KRABS up instance 10001" x="0" y="719" width="237" height="252" frameX="0" frameY="-12" frameWidth="237" frameHeight="264"/>
+</TextureAtlas>
