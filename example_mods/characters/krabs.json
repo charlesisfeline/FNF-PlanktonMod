@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-105,
-				9
+				-4
 			],
-			"fps": 24,
-			"anim": "singLEFT",
 			"indices": [],
-			"name": "Pico Note Right0"
+			"fps": 13,
+			"anim": "idle",
+			"loop": false,
+			"name": "KRABS idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-28,
-				-7
+				-280,
+				-14
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
+			"loop": false,
+			"name": "KRABS right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-39,
-				27
+				-200,
+				-224
 			],
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				-70
-			],
 			"fps": 24,
 			"anim": "singDOWN",
+			"loop": false,
+			"name": "KRABS down"
+		},
+		{
+			"offsets": [
+				-40,
+				6
+			],
 			"indices": [],
-			"name": "Pico Down Note0"
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "KRABS left"
+		},
+		{
+			"offsets": [
+				-140,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "KRABS up"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/mrkrabs",
+	"image": "characters/krabs-new",
 	"position": [
 		0,
-		250
+		340
 	],
-	"healthicon": "krabs",
-	"flip_x": true,
+	"healthicon": "face",
+	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		161,
+		161,
+		161
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 0.7
+	"sing_duration": 6.1,
+	"scale": 2.7
 }
