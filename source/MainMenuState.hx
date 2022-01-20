@@ -33,11 +33,7 @@ class MainMenuState extends MusicBeatState
 	private var camAchievement:FlxCamera;
 	
 	var optionShit:Array<String> = [
-		'plankton',
-		'squidward',
-		'spongebob',
-		'krabs',
-		'extras',
+		'songs',
 		#if MODS_ALLOWED 'mods', #end
 		#if ACHIEVEMENTS_ALLOWED 'awards', #end
 		'credits',
@@ -232,19 +228,7 @@ class MainMenuState extends MusicBeatState
 
 								switch (daChoice)
 								{
-									case 'plankton':
-										MusicBeatState.switchState(new PlayState());
-										PlayState.SONG = Song.loadFromJson("formula", "formula");
-									case 'squidward':
-										MusicBeatState.switchState(new PlayState());
-										PlayState.SONG = Song.loadFromJson("noisy-neighbor", "noisy-neighbor");
-									case 'spongebob':
-										MusicBeatState.switchState(new PlayState());
-										PlayState.SONG = Song.loadFromJson("im-ready", "im-ready");
-									case 'krabs':
-										MusicBeatState.switchState(new PlayState());
-										PlayState.SONG = Song.loadFromJson("greed", "greed");
-									case 'extras':
+									case 'songs':
 										MusicBeatState.switchState(new FreeplayState());
 									#if MODS_ALLOWED
 									case 'mods':
