@@ -27,7 +27,10 @@ class MasterEditorMenu extends MusicBeatState
 		'Dialogue Portrait Editor',
 		'Character Editor',
 		'Chart Editor',
-		'Animation Debug'
+		'Animation Debug',
+		'Stage Editor',
+		'Judgement Debug',
+		'Offset Editor'
 	];
 	private var grpTexts:FlxTypedGroup<Alphabet>;
 	private var directories:Array<String> = [null];
@@ -128,6 +131,14 @@ class MasterEditorMenu extends MusicBeatState
 					LoadingState.loadAndSwitchState(new ChartingState(), false);
 				case 'Animation Debug'://felt it would be cool maybe
 				    LoadingState.loadAndSwitchState(new AnimationDebug(), false);	
+				case 'Stage Editor'://felt it would be cool maybe
+				    LoadingState.loadAndSwitchState(new StageEditorState(), false);	
+				case 'Sound Offset'://felt it would be cool maybe
+				    LoadingState.loadAndSwitchState(new SoundOffsetState(), false);	
+				case 'Offset Editor'://felt it would be cool maybe
+				    LoadingState.loadAndSwitchState(new OffsetEditorState(), false);	
+				case 'Judgement Debug'://felt it would be cool maybe
+				    LoadingState.loadAndSwitchState(new JudgeCustomizationState(), false);	
 			}
 			FlxG.sound.music.volume = 0;
 			#if PRELOAD_ALL
